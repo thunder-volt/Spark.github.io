@@ -4,7 +4,7 @@
     padding: 0;
 }
 .logo{
-    background-image: url(../logo.png);
+    background-image: url('../logo.png');
     background-size: cover;
     height: 80px;
     width: 161px;
@@ -116,7 +116,7 @@ nav .menu-btn .fas {
 }
 
 body {
-    background-image: url(../bk2.jpg);
+    background-image: url('../bk2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     /* height: 100vh; */
@@ -126,7 +126,7 @@ body {
 
 @media (max-width:940px) {
     body {
-        background-image: url(../bk1.jpg);
+        background-image: url('../bk1.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         /* background-position: center; */
@@ -269,15 +269,15 @@ font-weight: 60px;
 }
 
 .veges {
-    background-image: url(../quiz.jpg);
+    background-image: url('../quiz.jpg');
 }
 
 .fruit {
-    background-image: url(../team.jpg);
+    background-image: url('../team.jpg');
 }
 
 .dairy {
-    background-image: url(../iitm.webp);
+    background-image: url('../iitm.webp');
 }
 
 
